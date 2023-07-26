@@ -76,7 +76,7 @@ Proactive in embracing new challenges and stepping out of comfort zone.
  feel free to reach out to me about anything! :)
 
  <details>
- <summary><b>📚 Learning resources</b></summary>
+ <summary><b>📚 Click to see Learning Resources</b></summary>
  
  ### Coursera Courses:
  ✔️ Machine Learning: Classification (21 hrs)  
