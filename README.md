@@ -53,7 +53,7 @@ Proactive in embracing new challenges and stepping out of comfort zone.
 
 ## 📊 GitHub Stats:
 <a href="https://github.com/freezpmark/freezpmark">
- <img width="35%" src="[https://streak-stats.demolab.com/?user=Freezpmark&theme=ayu-mirage](https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=ayu-mirage&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5)"/>
+ <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=ayu-mirage&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5"/>
 </a>
 <a href="https://github.com/freezpmark/freezpmark">
  <img width="60%" height=215 src="https://streak-stats.demolab.com/?user=Freezpmark&theme=ayu-mirage"/>
