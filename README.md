@@ -64,7 +64,18 @@ Frameworks / Wrappers: ![Dash](https://img.shields.io/badge/dash-008DE4?style=fo
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=ayu-mirage&layout=compact&langs_count=12)
 [![Streak](https://streak-stats.demolab.com/?user=Freezpmark&theme=ayu-mirage)](https://git.io/streak-stats)
 
-<details>
+## 📫 Contact:
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
+![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)
+
+ feel free to reach out to me about anything! :)
+
+ <details>
  <summary><b>📚 Learning resources</b></summary>
  
  ### Coursera Courses:
@@ -92,14 +103,3 @@ Frameworks / Wrappers: ![Dash](https://img.shields.io/badge/dash-008DE4?style=fo
  - [Tech With Tim](https://www.youtube.com/@TechWithTim)
  - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 </details>
-
-## 📫 Contact:
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
-![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)
-
- feel free to reach out to me about anything! :)
