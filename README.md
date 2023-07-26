@@ -66,6 +66,7 @@ Frameworks / Wrappers: ![Dash](https://img.shields.io/badge/dash-008DE4?style=fo
 
 <details>
  <summary><b>📚 Learning resources</b></summary>
+ 
  ### Coursera Courses:
  ✔️ Machine Learning: Classification (21 hrs)  
  ✔️ Learning How to Learn (15 hrs)  
