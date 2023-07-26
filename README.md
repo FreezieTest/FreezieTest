@@ -22,15 +22,6 @@ Proactive in embracing new challenges and stepping out of comfort zone.
 - 🌱 Learning and seeking to leverage LLMs to build AI-powered applications
 - 🔭 Looking for job opportunities in Seoul
 
-## 🪄 Projects:
-- Korean language learning bot integrated with: ChatGPT, Stable Diffusion, Google Sheets
-- Web app providing interactive visualizations of the Naive Bayes classifier
-- App that generates GIF animation visualizing the outcome of AI non-learning algorithms (A*, Held-Karp, Evolution, Production rule system)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=freezpmark&repo=Machine-Learning)](https://github.com/freezpmark/Machine-Learning)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=freezpmark&repo=Machine-Learning&theme=ayu-mirage)](https://github.com/freezpmark/Machine-Learning)
-
-
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
