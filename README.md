@@ -65,7 +65,7 @@ Frameworks / Wrappers: ![Dash](https://img.shields.io/badge/dash-008DE4?style=fo
 [![Streak](https://streak-stats.demolab.com/?user=Freezpmark&theme=ayu-mirage)](https://git.io/streak-stats)
 
 <details>
- <summary style="font-size: 20px;">📚 Learning Resources</summary>
+ <summary><b>📚 Learning resources</b></summary>
  ### Coursera Courses:
  ✔️ Machine Learning: Classification (21 hrs)  
  ✔️ Learning How to Learn (15 hrs)  
