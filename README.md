@@ -14,9 +14,46 @@ You can click the Preview link to take a look at your changes.
 I am Peter Markus from Slovakia, a Python Developer that strives for high quality code. I like analyzing problems from various angles to discover the best possible solution, and I find joy in helping others grasp new concepts, making complex ideas accessible to all.
 Proactive in embracing new challenges and stepping out of comfort zone. 
 
-- 🎓 Bc degree at FIIT STU (focused on SW & AI)
+- 🎓 Bc. degree at Slovak University of Technology, Faculty of Informatics and Information Technologies (focused on SW & AI)
 - 🌱 Learning and seeking to leverage LLMs to build AI-powered applications
 - 🔭 Looking for job opportunities in Seoul
+
+<details>
+ <summary><b>📚 Learning Resources (Click Me!)</b></summary>
+ 
+ ### Coursera Courses:
+ ✔️ Machine Learning: Classification (21 hrs)  
+ ✔️ Learning How to Learn (15 hrs)  
+ ✔️ AI For Everyone (10 hrs)  
+ ✔️ Specialization: Mathematics for Machine Learning and Data Science (60 hrs)  
+ ✔️ Specialization: Machine Learning (108 hrs)  
+ ✔️ Specialization: Deep Learning (140 hrs)  
+ ✔️ Specialization: Natural Language Processing (128 hrs)  
+ ✔️ Generative AI with Large Language Models (16 hrs)  
+ 📝 Algorithms Specialization (64 hrs)  
+ 📝 Applied Data Science with Python Specialization (140 hrs)  
+ 
+ ### Books:
+ ✔️ Programming in Python 3 (Mark Summerfield)  
+ ✔️ Building Chatbots with Python (Sumit Raj)  
+ 📝 Neural Networks From Scratch (Harrison Kinsley & Daniel Kukiela)  
+ 📝 Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow (Aurélien Géron)  
+ 
+ ### Youtube channels:
+ - [Sentdex](https://www.youtube.com/@sentdex) 
+ - [TechLead](https://www.youtube.com/@TechLead)
+ - [Corey Shafer](https://www.youtube.com/@coreyms)
+ - [Tech With Tim](https://www.youtube.com/@TechWithTim)
+ - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+</details>
+
+## 📊 GitHub Stats:
+<a href="https://github.com/freezpmark/freezpmark">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=ayu-mirage&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5"/>
+</a>
+<a href="https://github.com/freezpmark/freezpmark">
+ <img height=213 src="https://streak-stats.demolab.com/?user=Freezpmark&theme=ayu-mirage"/>
+</a>
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -51,14 +88,6 @@ Proactive in embracing new challenges and stepping out of comfort zone.
 ![Odoo](https://img.shields.io/badge/Odoo-a24689?style=for-the-badge)
 ![DiscordPy](https://img.shields.io/badge/Discord.py-%23366e9d?style=for-the-badge&logo=discord&logoColor=white)
 
-## 📊 GitHub Stats:
-<a href="https://github.com/freezpmark/freezpmark">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=ayu-mirage&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5"/>
-</a>
-<a href="https://github.com/freezpmark/freezpmark">
- <img height=213 src="https://streak-stats.demolab.com/?user=Freezpmark&theme=ayu-mirage"/>
-</a>
-
 ## 📫 Contact:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freezpmark/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=Instagram&logoColor=white)](https://www.instagram.com/freezpmark/)
@@ -68,33 +97,4 @@ Proactive in embracing new challenges and stepping out of comfort zone.
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?&logo=TikTok&logoColor=white)](https://www.tiktok.com/@freezpmark)
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?&logo=linktree&logoColor=white)](https://linktr.ee/freezpmark)
 
- feel free to reach out to me about anything! :)
-
- <details>
- <summary><b>📚 Learning Resources (Click Me!)</b></summary>
- 
- ### Coursera Courses:
- ✔️ Machine Learning: Classification (21 hrs)  
- ✔️ Learning How to Learn (15 hrs)  
- ✔️ AI For Everyone (10 hrs)  
- ✔️ Specialization: Mathematics for Machine Learning and Data Science (60 hrs)  
- ✔️ Specialization: Machine Learning (108 hrs)  
- ✔️ Specialization: Deep Learning (140 hrs)  
- ✔️ Specialization: Natural Language Processing (128 hrs)  
- ✔️ Generative AI with Large Language Models (16 hrs)  
- 📝 Algorithms Specialization (64 hrs)  
- 📝 Applied Data Science with Python Specialization (140 hrs)  
- 
- ### Books:
- ✔️ Programming in Python 3 (Mark Summerfield)  
- ✔️ Building Chatbots with Python (Sumit Raj)  
- 📝 Neural Networks From Scratch (Harrison Kinsley & Daniel Kukiela)  
- 📝 Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow (Aurélien Géron)  
- 
- ### Youtube channels:
- - [Sentdex](https://www.youtube.com/@sentdex) 
- - [TechLead](https://www.youtube.com/@TechLead)
- - [Corey Shafer](https://www.youtube.com/@coreyms)
- - [Tech With Tim](https://www.youtube.com/@TechWithTim)
- - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
-</details>
+Feel free to reach out to me about anything! :)
