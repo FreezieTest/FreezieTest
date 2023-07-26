@@ -10,10 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
-
-
-
 # 👋 Hello world!
 I am Peter Markus from Slovakia, a Python Developer that strives for high quality code. I like analyzing problems from various angles to discover the best possible solution, and I find joy in helping others grasp new concepts, making complex ideas accessible to all.
 Proactive in embracing new challenges and stepping out of comfort zone. 
