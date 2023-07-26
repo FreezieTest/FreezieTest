@@ -65,8 +65,8 @@ Proactive in embracing new challenges and stepping out of comfort zone.
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
-![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)
+![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?&logo=TikTok&logoColor=white)
+![Linktree](https://img.shields.io/badge/linktree-1de9b6?&logo=linktree&logoColor=white)
 
  feel free to reach out to me about anything! :)
 
