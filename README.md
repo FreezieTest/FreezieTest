@@ -64,31 +64,33 @@ Frameworks / Wrappers: ![Dash](https://img.shields.io/badge/dash-008DE4?style=fo
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freezpmark&theme=ayu-mirage&layout=compact&langs_count=12)
 [![Streak](https://streak-stats.demolab.com/?user=Freezpmark&theme=ayu-mirage)](https://git.io/streak-stats)
 
-## 📚 Learning Resources:
-### Coursera Courses:
-✔️ Machine Learning: Classification (21 hrs)  
-✔️ Learning How to Learn (15 hrs)  
-✔️ AI For Everyone (10 hrs)  
-✔️ Specialization: Mathematics for Machine Learning and Data Science (60 hrs)  
-✔️ Specialization: Machine Learning (108 hrs)  
-✔️ Specialization: Deep Learning (140 hrs)  
-✔️ Specialization: Natural Language Processing (128 hrs)  
-✔️ Generative AI with Large Language Models (16 hrs)  
-📝 Algorithms Specialization (64 hrs)  
-📝 Applied Data Science with Python Specialization (140 hrs)  
-
-### Books:
-✔️ Programming in Python 3 (Mark Summerfield)  
-✔️ Building Chatbots with Python (Sumit Raj)  
-📝 Neural Networks From Scratch (Harrison Kinsley & Daniel Kukiela)  
-📝 Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow (Aurélien Géron)  
-
-### Youtube channels:
-- [Sentdex](https://www.youtube.com/@sentdex) 
-- [TechLead](https://www.youtube.com/@TechLead)
-- [Corey Shafer](https://www.youtube.com/@coreyms)
-- [Tech With Tim](https://www.youtube.com/@TechWithTim)
-- [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+<details>
+ ## 📚 Learning Resources:
+ ### Coursera Courses:
+ ✔️ Machine Learning: Classification (21 hrs)  
+ ✔️ Learning How to Learn (15 hrs)  
+ ✔️ AI For Everyone (10 hrs)  
+ ✔️ Specialization: Mathematics for Machine Learning and Data Science (60 hrs)  
+ ✔️ Specialization: Machine Learning (108 hrs)  
+ ✔️ Specialization: Deep Learning (140 hrs)  
+ ✔️ Specialization: Natural Language Processing (128 hrs)  
+ ✔️ Generative AI with Large Language Models (16 hrs)  
+ 📝 Algorithms Specialization (64 hrs)  
+ 📝 Applied Data Science with Python Specialization (140 hrs)  
+ 
+ ### Books:
+ ✔️ Programming in Python 3 (Mark Summerfield)  
+ ✔️ Building Chatbots with Python (Sumit Raj)  
+ 📝 Neural Networks From Scratch (Harrison Kinsley & Daniel Kukiela)  
+ 📝 Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow (Aurélien Géron)  
+ 
+ ### Youtube channels:
+ - [Sentdex](https://www.youtube.com/@sentdex) 
+ - [TechLead](https://www.youtube.com/@TechLead)
+ - [Corey Shafer](https://www.youtube.com/@coreyms)
+ - [Tech With Tim](https://www.youtube.com/@TechWithTim)
+ - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+</details>
 
 ## 📫 Contact:
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
