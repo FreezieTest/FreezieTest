@@ -9,6 +9,8 @@ FreezieTest/FreezieTest is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+[[<img src="https://github.com/freezpmark/dash-app-naive-bayes/blob/master/image_dash_app.jpg"/>]]
+
 
 # 👋 Hello world!
 I am Peter Markus from Slovakia, a Python Developer that strives for high quality code. I like analyzing problems from various angles to discover the best possible solution, and I find joy in helping others grasp new concepts, making complex ideas accessible to all.
