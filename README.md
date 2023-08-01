@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 [[<img src="https://github.com/freezpmark/dash-app-naive-bayes/blob/master/image_dash_app.jpg"/>]]
 ![Dash](https://github.com/freezpmark/dash-app-naive-bayes/blob/master/docs/image_dash_app.jpg)
-
+<img src="https://github.com/freezpmark/dash-app-naive-bayes-visualization/blob/3381c90b690d2adfca69e156bec1e1e15928f726/image_dash_app.jpg"/>
 
 # 👋 Hello world!
 I am Peter Markus from Slovakia, a Python Developer that strives for high quality code. I like analyzing problems from various angles to discover the best possible solution, and I find joy in helping others grasp new concepts, making complex ideas accessible to all.
