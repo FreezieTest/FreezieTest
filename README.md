@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [[<img src="https://github.com/freezpmark/dash-app-naive-bayes/blob/master/image_dash_app.jpg"/>]]
-(https://github.com/freezpmark/dash-app-naive-bayes/blob/master/docs/image_dash_app.jpg)
+[](https://github.com/freezpmark/dash-app-naive-bayes/blob/master/docs/image_dash_app.jpg)
 
 
 # 👋 Hello world!
